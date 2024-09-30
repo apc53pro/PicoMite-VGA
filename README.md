@@ -7,3 +7,4 @@ My take on the PicoMite VGA built on a perfboard using solder.
 ![20240919_003645](https://github.com/user-attachments/assets/0ac019ac-db58-437e-a48a-605ff9b4903e)
 ![20240919_003823](https://github.com/user-attachments/assets/939822c8-b3d7-4461-ac81-a33592828a1e)
 ![20240919_003837](https://github.com/user-attachments/assets/9ba028e0-f542-428f-8316-b32bcdff18b3)
+![Uploading 20240919_003919.jpg…]()
