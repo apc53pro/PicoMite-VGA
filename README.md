@@ -1,5 +1,6 @@
 # PicoMite-VGA
-My take on the PicoMite VGA built on a perfboard using solder.
+Minha versão do PicoMite VGA - um computador que roda MMBASIC no Raspberry Pi Pico - Montado em perfboards usando solda e com um soquete DIP para o microcontrolador Raspberry Pi Pico.
+O circuito foi montado do zero a partir de esquemáticas existentes do circuito do projeto de referência. O computador conta com entrada PS2 para teclado e entrada para carões SD para tarnsferência de dados e programas.
 ![PicoMiteVGA_thumb](https://github.com/user-attachments/assets/320f4ce2-13b5-49f1-8ac0-8276ce216934)
 ![20240919_003635](https://github.com/user-attachments/assets/f491262e-f3d3-4a8b-a7f9-6bfbf3d55988)
 ![20240919_003714](https://github.com/user-attachments/assets/cedb2f7f-4e5a-4790-9459-7a76fbcf33e1)
